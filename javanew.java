@@ -1,8 +1,8 @@
-class javanew{  
+class javanew {  
 	
     public static void main(String args[]){  
 	
-     System.out.println("Hello again Java i got you");  
+     System.out.println("Hello against Java i got you");  
 	
     }  
 	
