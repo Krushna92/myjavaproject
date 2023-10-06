@@ -1,4 +1,4 @@
-class Simple{  
+class javanew{  
 	
     public static void main(String args[]){  
 	
